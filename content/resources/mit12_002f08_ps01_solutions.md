@@ -2,8 +2,13 @@
 content_type: resource
 description: Solutions to a problem set on geochronology and the age of the Solar
   System.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/0e91723e42a95b6457c841937139f723_MIT12_002f08_ps01_solutions.pdf
+file: /media/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/0e91723e42a95b6457c841937139f723_MIT12_002f08_ps01_solutions.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set #1: Solutions'
 uid: 0e91723e-42a9-5b64-57c8-41937139f723
