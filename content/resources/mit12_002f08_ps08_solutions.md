@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on isostasy.
-file: /media/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/a4428a140d46e95eb43ff17c9e1d587e_MIT12_002f08_ps08_solutions.pdf
+file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/a4428a140d46e95eb43ff17c9e1d587e_MIT12_002f08_ps08_solutions.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Problem Set #8: Solutions'
 uid: a4428a14-0d46-e95e-b43f-f17c9e1d587e
 ---
+Solutions to a problem set on isostasy.
+
