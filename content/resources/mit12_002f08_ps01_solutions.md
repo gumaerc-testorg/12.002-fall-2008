@@ -6,6 +6,7 @@ file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set #1: Solutions'
 uid: 0e91723e-42a9-5b64-57c8-41937139f723
 ---
 Solutions to a problem set on geochronology and the age of the Solar System.
-

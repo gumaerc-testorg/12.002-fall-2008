@@ -6,6 +6,7 @@ file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Problem Set #7: Solutions'
 uid: 00e5ea88-44b5-8885-a21d-576d73db81c2
 ---
 Solutions to a problem set on the physics and chemistry of the terrestrial planets.
-

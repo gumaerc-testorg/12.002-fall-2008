@@ -5,6 +5,7 @@ file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #6: Solutions'
 uid: 53c22a68-15b1-036d-027b-441c78425ebf
 ---
 Solutions to a problem set on geomagnetism and paleomagnetism.
-

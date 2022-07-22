@@ -5,6 +5,7 @@ file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #5: Solutions'
 uid: 9a79313f-eb8e-bc24-cabd-67b645a3f2b2
 ---
 Solutions to a problem set on convection.
-
