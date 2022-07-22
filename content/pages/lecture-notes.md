@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with notes
+  from selected sessions.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: a25d9b6d-ec56-0591-83d8-1486c530f35d
 ---
@@ -31,7 +36,7 @@ Introduction and overview
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Solar system formation ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec2))
+Solar system formation ({{% resource_link 3148e732-b245-38fd-42a6-6ad49ce40bf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Solar system formation ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec2))
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-Origin of elements ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec3_4))
+Origin of elements ({{% resource_link 7d1d598f-0eb0-e588-77cf-f3b7db635a2c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +54,7 @@ Origin of elements ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec3_4))
 5-6
 {{< tdclose >}}
 {{< tdopen >}}
-Geochronology ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec5_6))
+Geochronology ({{% resource_link 9dbdeb95-5dc2-6890-d931-7e140ee46fc0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +63,7 @@ Geochronology ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec5_6))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Age of the solar system ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec7))
+Age of the solar system ({{% resource_link ee1dd397-0c6d-0bfd-ac28-129a622305c4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +72,7 @@ Age of the solar system ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec7))
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Mass and moment of inertia ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec08))
+Mass and moment of inertia ({{% resource_link b4ec0c69-6a4d-fa46-2b7a-fee9af9dbba8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Mass and moment of inertia ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec08))
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Rheology and seismology ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec09))
+Rheology and seismology ({{% resource_link 23c69372-045f-70b2-fd7a-6e77d52b5f57 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Rheology and seismology ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec09))
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Elastic stress strain relations ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec10))
+Elastic stress strain relations ({{% resource_link 3de914ed-72bf-62c8-6185-5a7b54e19c79 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +99,7 @@ Elastic stress strain relations ([PDF]({{< baseurl >}}/resources/mit12_002f08_le
 11
 {{< tdclose >}}
 {{< tdopen >}}
-Seismic waves and wave equation ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec11))
+Seismic waves and wave equation ({{% resource_link a6292153-0c49-48b8-82ca-a4e805a88381 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +108,7 @@ Seismic waves and wave equation ([PDF]({{< baseurl >}}/resources/mit12_002f08_le
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Structure of the planets from seismology ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec12))
+Structure of the planets from seismology ({{% resource_link bb294c51-1e40-542c-f67b-222732762b6e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Structure of the planets from seismology ([PDF]({{< baseurl >}}/resources/mit12_
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Heat and conduction ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec13))
+Heat and conduction ({{% resource_link fd0d6023-f594-8e7a-8197-e283c0c7244a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +126,7 @@ Heat and conduction ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec13))
 14
 {{< tdclose >}}
 {{< tdopen >}}
-Heat convection ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec14))
+Heat convection ({{% resource_link b41969cc-3596-5fff-31b0-67af04b2010f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +135,7 @@ Heat convection ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec14))
 15
 {{< tdclose >}}
 {{< tdopen >}}
-The error function ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec15))
+The error function ({{% resource_link 2fe59a3d-985a-1d02-a4a1-52b0d709e687 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +144,7 @@ The error function ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec15))
 16
 {{< tdclose >}}
 {{< tdopen >}}
-Oceanic subsidence and heat flow ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec16))
+Oceanic subsidence and heat flow ({{% resource_link 5a68c93a-fd49-2186-cf27-4d7abddaf562 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ Oceanic subsidence and heat flow ([PDF]({{< baseurl >}}/resources/mit12_002f08_l
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Convective heat flow ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec17))
+Convective heat flow ({{% resource_link 40b3cedf-d614-54e2-62e8-a6dd19d3d3a5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +162,7 @@ Convective heat flow ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec17))
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Cooling planets ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec18))
+Cooling planets ({{% resource_link a89cf718-e24e-1d58-784f-a9283b3fa333 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Cooling planets ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec18))
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Geomagnetism I ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec19))
+Geomagnetism I ({{% resource_link 71ee8688-ac34-73a9-f4e9-f154fb7dba9b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +180,7 @@ Geomagnetism I ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec19))
 20
 {{< tdclose >}}
 {{< tdopen >}}
-Geomagnetism II ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec20))
+Geomagnetism II ({{% resource_link db506295-24e9-583a-0418-d8dd2fb2e130 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Geomagnetism II ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec20))
 21
 {{< tdclose >}}
 {{< tdopen >}}
-Polar wander and continental drift ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec21))
+Polar wander and continental drift ({{% resource_link 3629fac7-1023-048a-68c9-5d33cc1f7167 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -202,7 +207,7 @@ Plate tectonics
 26
 {{< tdclose >}}
 {{< tdopen >}}
-Isostasy ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec26))
+Isostasy ({{% resource_link 74fb28dc-0686-8245-1773-d2616e914ff2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +216,7 @@ Isostasy ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec26))
 27-28
 {{< tdclose >}}
 {{< tdopen >}}
-Gravity anomalies ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec27_28))
+Gravity anomalies ({{% resource_link bdcc2be3-4213-6c9b-d118-54026e691387 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -229,7 +234,7 @@ Topography and gravity data
 30
 {{< tdclose >}}
 {{< tdopen >}}
-Planetary histories ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec30))
+Planetary histories ({{% resource_link 45461220-0274-555e-86e3-21d678e4b7bb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -238,7 +243,7 @@ Planetary histories ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec30))
 31
 {{< tdclose >}}
 {{< tdopen >}}
-Planets ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec31))
+Planets ({{% resource_link 690c4c9b-da52-814a-989d-4baa66880ac7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -247,7 +252,7 @@ Planets ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec31))
 32
 {{< tdclose >}}
 {{< tdopen >}}
-Mercury ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec32))
+Mercury ({{% resource_link ca12be53-9e26-8f72-6a81-1906ec5a6432 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Mercury ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec32))
 33
 {{< tdclose >}}
 {{< tdopen >}}
-Moon ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec33))
+Moon ({{% resource_link b1fe7674-4e18-cae5-e3ba-bbf74984cb9a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -265,7 +270,7 @@ Moon ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec33))
 34
 {{< tdclose >}}
 {{< tdopen >}}
-Venus ([PDF]({{< baseurl >}}/resources/mit12_002f08_lec34))
+Venus ({{% resource_link b4a975c3-359a-1b30-cbf8-d65cc6327576 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
