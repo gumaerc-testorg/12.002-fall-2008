@@ -3,6 +3,7 @@ content_type: resource
 description: Solutions to a problem set on the physics and chemistry of the terrestrial
   planets.
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/00e5ea8844b58885a21d576d73db81c2_MIT12_002f08_ps07_solutions.pdf
+file_size: 292827
 file_type: application/pdf
 learning_resource_types:
 - Assignments
