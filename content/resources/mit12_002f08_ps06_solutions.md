@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solutions to a problem set on geomagnetism and paleomagnetism.
-file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/53c22a6815b1036d027b441c78425ebf_MIT12_002f08_ps06_solutions.pdf
+file: /ol-ocw-studio-app/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/53c22a6815b1036d027b441c78425ebf_MIT12_002f08_ps06_solutions.pdf
 file_size: 547885
 file_type: application/pdf
 learning_resource_types:
