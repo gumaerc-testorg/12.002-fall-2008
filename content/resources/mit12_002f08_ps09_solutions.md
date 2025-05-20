@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on gravity, compensated topography, and uncompensated
   topography.
-file: /ol-ocw-studio-app/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/346da91c9b6cfaaaae55fc5d30190a0c_MIT12_002f08_ps09_solutions.pdf
+file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/346da91c9b6cfaaaae55fc5d30190a0c_MIT12_002f08_ps09_solutions.pdf
 file_size: 525630
 file_type: application/pdf
 learning_resource_types:
