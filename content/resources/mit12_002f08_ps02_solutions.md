@@ -3,7 +3,7 @@ content_type: resource
 description: Solutions to a problem set on moment of inertia, mass and core size,
   yield stress envelopes, heat flow, seismic wave equation for planar S-waves, and
   seismic waves.
-file: /ol-ocw-studio-app/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/4108bcd0fc0e5f0d4b6c203be4ceb5b3_MIT12_002f08_ps02_solutions.pdf
+file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/4108bcd0fc0e5f0d4b6c203be4ceb5b3_MIT12_002f08_ps02_solutions.pdf
 file_size: 1058369
 file_type: application/pdf
 learning_resource_types:
