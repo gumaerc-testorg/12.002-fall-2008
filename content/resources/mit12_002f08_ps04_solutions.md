@@ -2,7 +2,7 @@
 content_type: resource
 description: Solutions to a problem set on conduction and subsidence, the age of the
   Earth, heat loss by plate tectonics, and subsidence and cooling.
-file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/3da7029fb7ad178852cf520ba6bc0c8f_MIT12_002f08_ps04_solutions.pdf
+file: /ol-ocw-studio-app/courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/3da7029fb7ad178852cf520ba6bc0c8f_MIT12_002f08_ps04_solutions.pdf
 file_size: 251988
 file_type: application/pdf
 learning_resource_types:
